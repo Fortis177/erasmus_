@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\unity project\\erasmus 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0A3A38-F42A-289B-7C7E-F54E4ACDA66E}|Assembly-CSharp.csproj|a:\\unity project\\erasmus 2\\assets\\script\\t\u00FCrkiyebuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0A3A38-F42A-289B-7C7E-F54E4ACDA66E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\t\u00FCrkiyebuttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0A3A38-F42A-289B-7C7E-F54E4ACDA66E}|Assembly-CSharp.csproj|A:\\unity project\\erasmus 2\\assets\\script\\gamestartbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0A3A38-F42A-289B-7C7E-F54E4ACDA66E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamestartbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0A3A38-F42A-289B-7C7E-F54E4ACDA66E}|Assembly-CSharp.csproj|A:\\unity project\\erasmus 2\\assets\\script\\turkeyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0A3A38-F42A-289B-7C7E-F54E4ACDA66E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\turkeyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "T\u00FCrkiyeButtonScript.cs",
+              "DocumentMoniker": "A:\\unity project\\erasmus 2\\Assets\\Script\\T\u00FCrkiyeButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\T\u00FCrkiyeButtonScript.cs",
+              "ToolTip": "A:\\unity project\\erasmus 2\\Assets\\Script\\T\u00FCrkiyeButtonScript.cs",
+              "RelativeToolTip": "Assets\\Script\\T\u00FCrkiyeButtonScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:18:24.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurkeySelector.cs",
+              "DocumentMoniker": "A:\\unity project\\erasmus 2\\Assets\\Script\\TurkeySelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TurkeySelector.cs",
+              "ToolTip": "A:\\unity project\\erasmus 2\\Assets\\Script\\TurkeySelector.cs",
+              "RelativeToolTip": "Assets\\Script\\TurkeySelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:08:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameStartButton.cs",
+              "DocumentMoniker": "A:\\unity project\\erasmus 2\\Assets\\Script\\GameStartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameStartButton.cs",
+              "ToolTip": "A:\\unity project\\erasmus 2\\Assets\\Script\\GameStartButton.cs",
+              "RelativeToolTip": "Assets\\Script\\GameStartButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:50:37.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
